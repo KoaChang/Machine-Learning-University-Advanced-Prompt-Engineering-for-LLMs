@@ -1,0 +1,22 @@
+Question;Answer
+What city was AWS re:Invent 2022 held in?;Las Vegas
+When did AWS re:Invent 2022 take place?;November 28 to December 2, 2022
+How many years has AWS re:Invent been running?;11 years
+How many people attended re:Invent 2022 in person?;Over 51,000
+How many keynotes were featured at re:Invent 2022?;5 keynotes
+Did Swami Sivasubramanian gave a keynote at re:Invent 2022?;Yes
+What Amazon service featured in re:Invent 2022 brings security data into a data lake?;Amazon Security Lake
+How many AWS security partners have announced integrations with Amazon Security Lake?;More than 37
+What does OCSF stand for?;Open Cybersecurity Schema Framework
+What percentage of C-Level executives will have performance requirements related to cybersecurity risk by 2026 according to Gartner?;At least 50%
+What Amazon service helps connect and secure services?;Amazon VPC Lattice
+What Amazon service provides secure access without a VPN?;AWS Verified Access
+Where can you view GuardDuty findings?;In AWS Security Hub, Amazon Detective, and Amazon EventBridge
+What Amazon service can detect suspicious Aurora logins?;Amazon GuardDuty RDS Protection
+What Amazon service does now support Amazon Lambda functions?;Amazon Inspector 
+What Amazon service can find sensitive data in S3?;Amazon Macie
+Who at re:Invent 2022 emphasized current macroeconomic challenges?;Adam Selipsky
+What makes security data actionable?;Analysis and visualization
+What Amazon service was announced at re:Invent 2022 to secure databases?;Amazon GuardDuty RDS Protection
+Who is Amazon's CTO?;Werner Vogels
+According to AWS CEO, what can help tighten budgets?;The cloud
